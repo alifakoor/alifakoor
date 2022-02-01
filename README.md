@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifakoor&show_icons=true&theme=dark)
 <br />
-![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifakoor&show_icons=true&theme=dark)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifakoor&show_icons=true&theme=dark)](https://wakatime.com/@alifakoor)
