@@ -14,6 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifakoor&show_icons=true&theme=dark)
+
+- 🔭 I’m currently working on Python
+- 🌱 I’m currently learning Node.js
+- - 💬 Ask me about JS & Python [StackOverflow](https://stackoverflow.com/users/7333979/ali-fakoor)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifakoor&show_icons=true&theme=dark)](https://github.com/alifakoor)
 <br />
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alifakoor&show_icons=true&theme=dark)](https://wakatime.com/@alifakoor)
