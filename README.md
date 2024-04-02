@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Python
-- 🌱 I’m currently learning Node.js
-- 💬 Ask me about JS & Python
+- 🔭 I’m currently working on Node.js
 - 📫 How to reach me: [Mail](mailto:ali.fakoor13@gmail.com), [Linkedin](https://www.linkedin.com/in/alifakoor13/), [Twitter](https://twitter.com/alifakoor), [Telegram](https://t.me/alifakoor13)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alifakoor&show_icons=true&theme=dark)](https://github.com/alifakoor)
